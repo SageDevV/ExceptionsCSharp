@@ -1,0 +1,12 @@
+D:\WorkspaceCSharp\Exceptions\Infra\bin\Debug\net6.0\Infra.deps.json
+D:\WorkspaceCSharp\Exceptions\Infra\bin\Debug\net6.0\Infra.dll
+D:\WorkspaceCSharp\Exceptions\Infra\bin\Debug\net6.0\Infra.pdb
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.AssemblyInfo.cs
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.dll
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\refint\Infra.dll
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\Infra.pdb
+D:\WorkspaceCSharp\Exceptions\Infra\obj\Debug\net6.0\ref\Infra.dll

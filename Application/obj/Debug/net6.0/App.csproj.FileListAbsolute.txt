@@ -1,0 +1,12 @@
+D:\WorkspaceCSharp\Exceptions\Application\bin\Debug\net6.0\App.deps.json
+D:\WorkspaceCSharp\Exceptions\Application\bin\Debug\net6.0\App.dll
+D:\WorkspaceCSharp\Exceptions\Application\bin\Debug\net6.0\App.pdb
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.csproj.AssemblyReference.cache
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.AssemblyInfoInputs.cache
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.AssemblyInfo.cs
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.csproj.CoreCompileInputs.cache
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.dll
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\refint\App.dll
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\App.pdb
+D:\WorkspaceCSharp\Exceptions\Application\obj\Debug\net6.0\ref\App.dll
